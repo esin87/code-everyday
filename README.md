@@ -6,7 +6,7 @@
 
 **Thoughts:** I've been working on the Project Euler problems for a while now, and really enjoy the mathematical challenges they pose. Problem 42 was a relatively straightforward one, in which you take an array of words, calculate whether each word is a triangle word, and return the count of all the words that are triangle words. I plan to refactor this problem and use the quadratic formula instead of manually calculating whether it's a triangle number!
 
-**Link to work:** [Project Euler problem #42: Coded Triangle Numbers](https://github.com/esin87/project-euler/blob/main/p042.js)
+**Link to work:** [Project Euler problem #42: Coded Triangle Numbers](https://github.com/esin87/project_euler/blob/main/041-050/p042.js)
 
 
 ### Day 1: April 7, 2021
@@ -17,7 +17,7 @@
 
 Planning to spend some time working on larger projects soon, but finding that the P.E. problems definitely deliver on that hit of instant gratification and bite-size learnings that make me feel programming momentum on busy days. 
 
-**Link to work:** [Project Euler Problem #43: Sub-string Divisibility](https://github.com/esin87/project-euler/blob/main/p043.js)
+**Link to work:** [Project Euler Problem #43: Sub-string Divisibility](https://github.com/esin87/project_euler/blob/main/041-050/p043.js)
 
 ### Day 2: April 8, 2021
 
@@ -27,4 +27,4 @@ Planning to spend some time working on larger projects soon, but finding that th
 
 My solution to this last Project Euler problem is a good example of my last point. It's not the prettiest, and relies on prior knowledge that the first correct pair of numbers is the solution to exit the function early. Thinking about how I can go back and refactor without needing to first generate a ton of pentagonal numbers first. Will probably need to create the numbers dynamically in the form loop instead of generating them all and needing to look them up. Will also just need a way to check if the number is pentagonal for the sums and differences. 
 
-**Link to work:** [Project Euler Problem #44: Pentagonal Numbers](https://github.com/esin87/project-euler/blob/main/p044.js)
+**Link to work:** [Project Euler Problem #44: Pentagonal Numbers](https://github.com/esin87/project_euler/blob/main/041-050/p044.js)
